@@ -1,0 +1,20 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/periodical/main",
+    "pages/borrowDtas/main",
+    "pages/analysis/main",
+    "pages/discipline/main",
+    "pages/results/main",
+    "pages/scholars/main",
+    "pages/details/main",
+    "pages/institution/main",
+    "pages/logs/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  }
+}

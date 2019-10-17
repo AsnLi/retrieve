@@ -1,0 +1,20 @@
+{
+    "navigationBarTitleText": "我的",
+    "usingComponents": {
+      "i-tabs": "/static/iview/tabs/index",
+      "i-tab": "/static/iview/tab/index",
+      "i-panel": "/static/iview/panel/index",
+      "i-toast": "/static/iview/toast/index",
+      "i-collapse": "/static/iview/collapse/index",
+      "i-collapse-item": "/static/iview/collapse-item/index",
+      "i-button": "/static/iview/button/index",
+      "i-icon": "/static/iview/icon/index",
+      "i-cell-group": "/static/iview/cell-group/index",
+      "i-cell": "/static/iview/cell/index",
+      "i-notice-bar": "/static/iview/notice-bar/index",
+      "i-radio-group": "/static/iview/radio-group/index",
+      "i-card": "/static/iview/card/index",
+      "i-steps": "/static/iview/steps/index",
+      "i-step": "/static/iview/step/index"
+    }
+}

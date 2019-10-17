@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "学者",
+  "usingComponents": {
+    "i-tabs": "/static/iview/tabs/index",
+    "i-tag": "/static/iview/tag/index",
+    "i-load-more": "/static/iview/load-more/index",
+    "i-tab": "/static/iview/tab/index",
+    "i-icon": "/static/iview/icon/index"
+  }
+}

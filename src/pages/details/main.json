@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "详情",
+  "usingComponents": {
+    "i-panel": "/static/iview/panel/index",
+    "i-icon": "/static/iview/icon/index",
+    "i-button": "/static/iview/button/index",
+    "i-action-sheet": "/static/iview/action-sheet/index",
+    "i-cell-group": "/static/iview/cell-group/index",
+    "i-toast": "/static/iview/toast/index",
+    "i-cell": "/static/iview/cell/index"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "学科",
+  "usingComponents": {
+    "i-tabs": "/static/iview/tabs/index",
+    "i-tab": "/static/iview/tab/index",
+    "i-load-more": "/static/iview/load-more/index"
+  }
+}

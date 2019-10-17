@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "期刊",
+  "usingComponents": {
+    "i-icon": "/static/iview/icon/index",
+    "i-tag": "/static/iview/tag/index",
+    "i-button": "/static/iview/button/index"
+  }
+}

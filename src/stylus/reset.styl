@@ -1,0 +1,27 @@
+* {
+  transition: width 2s;
+  -moz-transition: width 2s;
+  -webkit-transition: width 2s;
+  -o-transition: width 2s;
+}
+
+table
+  border:1px solid #dadada;
+  border-right: 0;
+  border-bottom: 0;
+  width: 100%;
+  padding-bottom 15px
+  tr
+    display flex
+    width 100%
+    justify-content space-between
+    th, td
+      padding: 10px;
+      border-bottom: 1px solid #dadada;
+      border-right: 1px solid #dadada;
+      text-align: center;
+      width:100%
+    th
+      font-weight: 400;
+    &:nth-child(odd)
+      background-color: #bbbec4
